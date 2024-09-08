@@ -1,5 +1,4 @@
-#Question 2 Task 1
-
+# Question 2 Task 1
 submitted = ["Alice", "Bob", "Charlie", "David"]
 attended = ["Charlie", "Eve", "Alice", "Frank"]
 
